@@ -124,20 +124,15 @@ A full-stack development project exploring frontend experiences, backend functio
 
 ---
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width="25"/> GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabri3llp&show_icons=true&hide_border=true&bg_color=160F24&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&ring_color=A855F7" />
+<img height="180" src="./profile/stats.svg" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabri3llp&layout=compact&hide_border=true&bg_color=160F24&title_color=C084FC&text_color=E9D5FF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabri3llp&bg_color=160F24&color=E9D5FF&line=A855F7&point=C084FC&area=true&hide_border=true" width="95%" />
+<img height="180" src="./profile/top-langs.svg" />
 
 </div>
-
 ---
 
 ## 🎧 Currently Listening To
