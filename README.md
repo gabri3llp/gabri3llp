@@ -31,6 +31,11 @@ I enjoy exploring both the creative and technical sides of development, from des
 - 🎮 Into gaming, music, MMA, and bikes.
 - 🐈 Proud owner of a cat named Ziggy.
 - 🚀 Always experimenting, learning, and building something new.
+- <div align="center">
+
+📧 **Email:** gabrielpulella92@gmail.com
+
+</div>
 
 ---
 
